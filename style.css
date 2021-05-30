@@ -1,0 +1,16 @@
+body{
+    color: whitesmoke;
+    background: rgb(20, 20, 59);
+
+    max-width: 1000px;
+}
+h1,h2,h3,h4,h5,h6{
+    color:rgb(206, 134, 0);
+    text-align: center;
+}
+a{
+    color: rgb(253, 124, 124)
+}
+table{
+    font-size: large;
+}
